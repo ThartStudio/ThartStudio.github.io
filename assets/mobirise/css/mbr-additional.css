@@ -1574,8 +1574,8 @@ a {
   }
 }
 .cid-tiFrunbSaR {
-  padding-top: 10rem;
-  padding-bottom: 6rem;
+  padding-top: 8rem;
+  padding-bottom: 4rem;
   background-color: #ffffff;
 }
 .cid-tiFrunbSaR img,
@@ -1593,7 +1593,7 @@ a {
 .cid-tiFrunbSaR .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #fafafa;
+  background: #bed3f9;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
